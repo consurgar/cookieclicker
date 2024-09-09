@@ -16862,7 +16862,7 @@ window.onload=function()
 				LoadLang('loc/'+lang+'.js?v='+Game.version,function(){
 					var launch=function(){
 						Game.Launch();
-						if (false) Game.ErrorFrame();
+						if (true);
 						else
 						{
 							console.log('[=== '+choose([
