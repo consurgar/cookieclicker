@@ -16862,6 +16862,8 @@ window.onload=function()
 				LoadLang('loc/'+lang+'.js?v='+Game.version,function(){
 					var launch=function(){
 						Game.Launch();
+						if true Game.ErrorFrame();
+						else
 						{
 							console.log('[=== '+choose([
 								'Oh, hello!',
