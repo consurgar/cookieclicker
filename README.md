@@ -4,6 +4,11 @@
 
 The original game can be found at http://orteil.dashnet.org/cookieclicker/
 
+This is a altered version of ozh's version, although this time completely removing the "Oops, wrong website" interaction, and limiting the ads. 
+All other code can be credited to ozh. Check his original version out at ozh.github.io/cookieclicker/
+
+========================= Original Text =========================
+
 This mirror for, errrr, like, educational purpose, either to download for your own offline education or to be played online from http://ozh.github.io/cookieclicker/ if you cannot "educate" yourself on the original URL
 
 ### How to update
